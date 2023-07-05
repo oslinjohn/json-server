@@ -1,5 +1,5 @@
-{
-   [
+[                                                                           
+   
     {
       "title": "Stylish Studio",
       "area": "Cape Town",
@@ -80,5 +80,4 @@
       "image_url": "https://picsum.photos/600?random=10",
       "price": 10000000
     }
-  ]  
-}
+]  
